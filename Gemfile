@@ -30,6 +30,7 @@ gem 'jbuilder', '~> 1.2'
 # RSpec
 gem 'rspec-rails'
 gem 'capybara'
+#gem 'webrat'
 
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
